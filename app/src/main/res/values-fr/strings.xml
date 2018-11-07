@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_world">Bonjour!</string>
+    <string name="ButtonText">Je suis une Button!</string>
+    <string name="login">entrer</string>
+    <string name="hint">insinuer</string>
+    <string name="password">mot de passe</string>
+    <string name="RadioButton">ButtonRadio</string>
+    <string name="CheckBox">BoxCheck</string>
+    <string name="Switch">C\'est fait ca</string>
+
+</resources>

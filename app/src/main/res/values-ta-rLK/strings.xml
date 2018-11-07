@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidLabs</string>
-    <string name="hello_world">ஹலோ உலகம்</string>
+    <string name="hello_world">Bonjour le monde</string>
     <string name="ButtonText">நான் ஒரு பொத்தான்</string>
+    <string name="login">உள் நுழை</string>
+    <string name="hint">உள்நுழைவு பெயர்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="RadioButton">வானொலிபொத்தான்</string>
+    <string name="CheckBox">பெட்டியை சரிபாருங்கள்</string>
+    <string name="Switch">இது என்ன செய்கிறது?</string>
 </resources>
