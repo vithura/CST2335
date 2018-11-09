@@ -8,5 +8,9 @@
     <string name="RadioButton">ButtonRadio</string>
     <string name="CheckBox">BoxCheck</string>
     <string name="Switch">C\'est fait ca</string>
+    <string name="dialog_message">Are you sure to exit?2</string>
+    <string name="dialog_text">Alert2</string>
+    <string name="ok" >YES2</string>
+    <string name="cancel" >Cancel2</string>
 
 </resources>
